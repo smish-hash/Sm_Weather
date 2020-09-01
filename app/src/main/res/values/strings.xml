@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sm Weather</string>
+
+    <string-array name="sample_city_names">
+        <item>Bhubaneswar</item>
+        <item>Delhi</item>
+        <item>New York</item>
+        <item>London</item>
+        <item>Houston</item>
+        <item>Mumbai</item>
+        <item>Louisiana</item>
+        <item>Paris</item>
+        <item>Doha</item>
+        <item>Amsterdam</item>
+        <item>Bangalore</item>
+        <item>Venice</item>
+        <item>Kyoto</item>
+        <item>Barcelona</item>
+        <item>Athens</item>
+        <item>Sydney</item>
+    </string-array>
+</resources>
