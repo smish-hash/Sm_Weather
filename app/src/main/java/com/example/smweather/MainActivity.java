@@ -25,7 +25,9 @@ public class MainActivity extends AppCompatActivity {
     AutoCompleteTextView edCity;
 
     TextView tvCity, tvTemp, tvHumidity;
-    public static String openWeatherapiKey = "aaca20adf03bcc0485693a76344f9e08";
+//    public static String openWeatherapiKey = "my_api_key_was_here";
+//    hiding api key using buildconfig...see gradle app level (also kiit//.gradle//"gradle.properties")
+    public static String openWeatherapiKey = BuildConfig.ApiKey;
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
